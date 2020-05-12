@@ -1,7 +1,8 @@
 
 ACM PCA
 ACM
-API Gateway
+API Gateway (REST APIs)
+API Gateway v2 (WebSocket and HTTP APIs)
 Access Analyzer
 AppMesh
 AppSync
@@ -21,6 +22,7 @@ CodeBuild
 CodeCommit
 CodeDeploy
 CodePipeline
+CodeStar Notifications
 Cognito
 Config
 Cost and Usage Report
@@ -57,8 +59,10 @@ IAM
 Inspector
 IoT
 KMS
-Kinesis Firehose
 Kinesis
+Kinesis Data Analytics v2 (SQL and Java Applications)
+Kinesis Firehose
+Kinesis Video
 Lambda
 License Manager
 Lightsail
@@ -79,6 +83,7 @@ RAM
 RDS
 Redshift
 Resource Groups
+Route53 Domains
 Route53 Resolver
 Route53
 S3
